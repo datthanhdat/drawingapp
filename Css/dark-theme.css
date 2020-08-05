@@ -1,0 +1,15 @@
+.dark-theme{
+    color: white;
+    background: black;
+    transition: 0.4s;
+}
+.nutduoi{
+    position: fixed;
+    z-index: 99;
+    bottom: 10px;
+    left: 25px  ;
+}
+.nutduoi i{
+    font-size: 33px;
+    cursor: pointer;
+}
